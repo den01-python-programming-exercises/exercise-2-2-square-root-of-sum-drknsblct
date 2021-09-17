@@ -6,7 +6,7 @@ def main():
     for i in range(2):
         num = int(input(''))
         sum += num
-    print(str(m.sqrt(sum)))
+    print(m.sqrt(sum))
 
 if __name__ == '__main__':
     main()
